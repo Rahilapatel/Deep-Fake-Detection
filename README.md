@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deepfake Detection (Image & Video)
 
 This project focuses on detecting deepfakes from both images and videos using machine learning and computer vision techniques. The goal is to identify manipulated media and help prevent the spread of synthetic and misleading content.
@@ -38,3 +39,6 @@ python app.py
 
 
 
+=======
+# Deep-Fake-Detection
+>>>>>>> e8c54aa3a309beed323943ebfe15e0f09ab9ee57
