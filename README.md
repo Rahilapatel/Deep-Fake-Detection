@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deepfake Detection (Image & Video)
 
 This project focuses on detecting deepfakes from both images and videos using machine learning and computer vision techniques. The goal is to identify manipulated media and help prevent the spread of synthetic and misleading content.
